@@ -94,6 +94,37 @@
 
 20. Ran the scan and the screenshot below shows the results.
 
+    <img width="1527" alt="image" src="https://github.com/user-attachments/assets/c823d88f-ead3-41cb-b648-3bb4f2f638d3">
+
+21. As seen in the screenshot a credentialed scan revealed that there were several critical vulnerabilities.
+
+22. As an example, I noticed that there were several critical vulnerabilities. More than likely after updating Windows or Edge this would be remediated.
+
+    
+<img width="1631" alt="image" src="https://github.com/user-attachments/assets/2b4c93b5-0175-4088-a831-f91f64df8cb6">
+
+23. Below in the screenshot is a breakdown on one of the critical vulnerabilities, which states that Edge needs to be updated.
+
+    <img width="1157" alt="image" src="https://github.com/user-attachments/assets/a8050afb-dd87-47e5-a0f6-0a2b3b627d7f">
+
+24. Within the remediations tab it gives a high level overview on how to remediate the vulnerabilities.
+
+    <img width="1738" alt="image" src="https://github.com/user-attachments/assets/104ee96c-c837-4f8a-a8d8-1de8023b0959">
+
+25. A fix for most of these vulnerabilities would be having routine windows automated patching within the organization to avoid having these vulnerabilities occur.
+
+26. Next I am going to install a depricated version of Firefox and run another scan to see the results.
+
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/4b497366-8698-477c-b9c8-afadd20d3d4d">
+
+27. Performed another scan after the depricated Firefox download, below are the results of the next scan.
+
+    
+
+    
+
+
+
     
 
     
