@@ -60,7 +60,45 @@
 
     <img width="1580" alt="image" src="https://github.com/user-attachments/assets/c1e9e1ca-75ce-46b1-a2da-bc8345cd5088">
 
-12.
+12. The findings for the scan is in the screenshots below.
+
+    <img width="1550" alt="image" src="https://github.com/user-attachments/assets/6d6fe8f2-4f1c-47ef-9667-bb68bc73b59e">
+
+    <img width="1544" alt="image" src="https://github.com/user-attachments/assets/281f2b85-e3a8-4985-9df1-9ac34acaad8d">
+
+    <img width="1565" alt="image" src="https://github.com/user-attachments/assets/06b45180-7017-45b1-8252-8a5771b71d34">
+
+13. As an example, this log generated because Nessus was not able to authenticate to the VM as there were no credentials used.
+
+    <img width="1565" alt="image" src="https://github.com/user-attachments/assets/e5c18fd5-855c-412e-a920-53bfe5074d2b">
+
+14. Next I set up the virtual machine to accept authenticated scans as well as provide login credentials to Nessus and compare the results of the first scan after the adjustments.
+
+15. I enabled remote registry.
+
+    <img width="510" alt="image" src="https://github.com/user-attachments/assets/a5f52161-0d64-46bd-9fba-b38e18a1470e">
+
+16. Navigated to User Account control settings and changed it to never notify.
+
+    <img width="510" alt="image" src="https://github.com/user-attachments/assets/eb347ae6-8ae6-4760-b3b4-8b91a2dc8f22">
+
+17. Navigated to Registry Editor to add a key to allow the remote account to connect in to and add a key to further disable user account control for the remote account. *This was based off of guidance from Nessus.
+
+    <img width="510" alt="image" src="https://github.com/user-attachments/assets/63f1d8f0-5a6c-4042-805d-5d0b51e774bd">
+
+
+
+
+
+
+
+    
+
+
+    
+
+    
+
 
 
     
