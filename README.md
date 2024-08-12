@@ -2,16 +2,16 @@
 
 ## Objective
 
-(THIS LAB IS IN PROGRESS) The objective of this project is to successfully configure and scan for vulnerabilities as well as remediate them via Nessus in home lab environment.
+The objective of this project is to successfully configure and scan for vulnerabilities as well as remediate them via Nessus in home lab environment.
 
 ### Skills Learned
 
 
-- Configured and conducted vulnerability scans using Nessus to identify and assess security weaknesses in a virtual environment.
+- Configured and conducted vulnerability scans utilizing Nessus to identify and assess security weaknesses in a virtual environment.
 - Disabled the firewall to intentionally expose the VM, demonstrating its visibility and risk factors during a vulnerability scan.
 - Performing routine scans can elimanate a large amount of risk.
-- Enhanced knowledge of security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Enhanced knowledge of security vulnerabilities and successfully remediating them.
+- proficiency in using Nessus to scan for vulnerabilities.
 
 ### Tools Used
 
@@ -151,34 +151,10 @@ Scan 3: After installing a deprecated version of Firefox, the number of critical
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/9c1b089f-5e6f-4043-b1e0-e51dd6c849d6">
 
 
-Scan 4: After uninstalling Firefox and running windows updates, this is the final scan.
+Scan 4: After uninstalling Firefox, running Windows updates, and updating applications in the Microsoft Store. I was able to remediate a large amount of the vulnerabilities, this is the final credentialed scan.
 
 
 
-    
-
-
-
-
-
-
-
-    
-
-
-    
-
-    
-
-    
-
-    
-
-
-
-    
-
-    
 
 
 
