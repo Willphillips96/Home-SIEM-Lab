@@ -1,4 +1,4 @@
-# Vulnerability Scanning and Remediation with Nessus
+# Nessus Vulnerability Scanning and Remediation Lab
 
 ## Objective
 
