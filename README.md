@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this project is to successfully configure and scan for vulnerabilities as well as remediate them via Nessus in home lab environment.
+The objective of this project is to successfully configure and conduct scans on a virtual machine, followed by remediating all critical vulnerabilities utilizing Nessus within a home lab environment.
 
 ### Skills Learned
 
