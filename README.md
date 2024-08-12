@@ -151,9 +151,10 @@ Scan 3: After installing a deprecated version of Firefox, the number of critical
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/9c1b089f-5e6f-4043-b1e0-e51dd6c849d6">
 
 
-Scan 4: After uninstalling Firefox, running Windows updates, and updating applications in the Microsoft Store. I was able to remediate a large amount of the vulnerabilities, this is the final credentialed scan.
+Scan 4: After uninstalling Firefox, applying Windows updates, and updating Microsoft 365 along with other applications from the Microsoft Store, I successfully remediated all critical vulnerabilities. This marks the completion of the final credentialed scan.
 
-<img width="1786" alt="image" src="https://github.com/user-attachments/assets/7db2ca63-8aa4-4aaf-8b00-4428d2f14b44">
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/1dd77e5f-9fe7-4efd-9eb7-3c3564364371">
+
 
 
 
