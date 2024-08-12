@@ -14,7 +14,7 @@
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 - Nessus
 - VMware 
