@@ -1,4 +1,4 @@
-# Nessus Home Lab
+# Vulnerability Scanning and Remediation with Nessus
 
 ## Objective
 
@@ -29,11 +29,14 @@
 
 3. Next I installed Nessus.
 
-4. While waiting for Nessus to install, I navigated to the Windows VM workstation 17 player and configured the Windows virtual machine.
+4. While waiting for Nessus to install, I navigated to the Windows VM workstation 17 player and configured and installed the Windows virtual machine.
 
    <img width="541" alt="image" src="https://github.com/user-attachments/assets/fd5dd287-4e84-4e33-a4d9-3296df54f214">
 
-5.
+   <img width="511" alt="image" src="https://github.com/user-attachments/assets/13466cbd-ccc9-4d30-b1aa-e471968a2f1e">
+
+
+5. 
 
 
    
