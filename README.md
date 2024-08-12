@@ -8,7 +8,7 @@
 [Bullet Points - Remove this afterwards]
 
 - Configured and conducted vulnerability scans using Nessus to identify and assess security weaknesses in a virtual environment.
-- Proficiency in analyzing and interpreting network logs.
+- Disabled the firewall to intentionally expose the VM, demonstrating its visibility and risk factors during a vulnerability scan.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
@@ -88,11 +88,13 @@
 
 18. Next I restarted the VM.
 
-19. I navigated back to Nessus and went back into the previous scan and configured it further by adding the windows login credentials.
+19. I navigated back to Nessus and went back into the previous scan and configured it further by adding the Windows VM login credentials.
 
     <img width="1451" alt="image" src="https://github.com/user-attachments/assets/87245dac-98f4-4d81-9f84-69cb2a3daef6">
 
 20. Ran the scan and the screenshot below shows the results.
+
+    
 
     
 
