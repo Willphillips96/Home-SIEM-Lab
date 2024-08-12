@@ -7,7 +7,7 @@
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
+- Configured and conducted vulnerability scans using Nessus to identify and assess security weaknesses in a virtual environment.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
@@ -16,8 +16,8 @@
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+- Nessus
+- VMware 
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
