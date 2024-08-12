@@ -9,9 +9,8 @@ The objective of this project is to successfully configure and conduct scans on 
 
 - Configured and conducted vulnerability scans utilizing Nessus to identify and assess security weaknesses in a virtual environment.
 - Disabled the firewall to intentionally expose the VM, demonstrating its visibility and risk factors during a vulnerability scan.
-- Performing routine scans can elimanate a large amount of risk.
-- Enhanced knowledge of security vulnerabilities and successfully remediating them.
-- proficiency in using Nessus to scan for vulnerabilities.
+- Enhanced knowledge of security vulnerabilities and successfully remediated them.
+- Gained proficiency in utilizing Nessus to scan for vulnerabilities.
 
 ### Tools Used
 
@@ -21,7 +20,7 @@ The objective of this project is to successfully configure and conduct scans on 
 - Windows 10
 
 ## Steps
-1. Downloaded VMware workstation pro.
+1. Downloaded VMware Workstation Pro.
 
    <img width="367" alt="image" src="https://github.com/user-attachments/assets/efb1f332-f96e-4b9f-a1bf-82fb805fa3a5">
 
@@ -48,7 +47,7 @@ The objective of this project is to successfully configure and conduct scans on 
 
    <img width="1619" alt="image" src="https://github.com/user-attachments/assets/5fbb0ff8-4b93-4d02-9043-c169e23f7057">
 
-9. Selected Basic Network Scan
+9. Selected Basic Network Scan.
 
     <img width="1076" alt="image" src="https://github.com/user-attachments/assets/674dfac9-4296-4fdb-917e-e0a77726c118">
 
@@ -167,6 +166,7 @@ Scan 4: After uninstalling Firefox, applying Windows updates, and updating Micro
 
 - There's a large difference between doing a credentialed scan and a non credentialed scan. More risks are exposed with credentialed scans.
 - Regularly updating applications and Windows significantly reduces the number of vulnerabilities detected during scans.
+- Performing routine scans can elimanate a large amount of risk.
 
 
 
