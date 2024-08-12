@@ -1,8 +1,8 @@
-# Home-SIEM-Lab
+# Nessus Home Lab
 
 ## Objective
 
-(THIS LAB IS IN PROGRESS) The objective of this project is to successfully set up and configure the Elastic Stack SIEM in a home lab environment. This involves configuring Elastic Agents for log collection and forwarding data to the SIEM, ensuring effective security event monitoring and analysis.
+(THIS LAB IS IN PROGRESS) The objective of this project is to successfully configure and scan for vulnerabilities as well as remediate them via Nessus in home lab environment.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
@@ -21,27 +21,22 @@
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-1. Created an Elastic account.
+1. Downloaded VMware workstation pro.
 
-2. Downloaded the Kali Linux Image and successfully logged in. I am utilizing virtual box.
+   <img width="367" alt="image" src="https://github.com/user-attachments/assets/efb1f332-f96e-4b9f-a1bf-82fb805fa3a5">
 
-3.Set up an agent by going to Add integrations
+2. Then I downloaded the Windows 10 ISO file.
 
-<img width="546" alt="image" src="https://github.com/user-attachments/assets/df61cd5b-06c1-48d7-8391-19123f3a466e">
+3. Next I installed Nessus.
 
-4. Added Elastic Defend.
+4. While waiting for Nessus to install, I navigated to the Windows VM workstation 17 player and configured the Windows virtual machine.
 
-   <img width="913" alt="image" src="https://github.com/user-attachments/assets/93d5972f-a838-45b9-8392-6c97cdfa1fea">
+   <img width="541" alt="image" src="https://github.com/user-attachments/assets/fd5dd287-4e84-4e33-a4d9-3296df54f214">
 
-5. Utilized the command below to download the Elastic Defende agent onto the Kali Linux VM.
+5.
 
-   <img width="530" alt="image" src="https://github.com/user-attachments/assets/f45786a8-dafe-428a-b048-49caa47a89f5">
 
-6. Ran nmap on the local host. This can ultimately can detect open ports and creates several security events.
-
-<img width="530" alt="image" src="https://github.com/user-attachments/assets/11d5cf70-d276-42a0-bae4-162e0c72360c">
-
-7. Withthin Elastic I navigated to the logs.
+   
 
 
 
