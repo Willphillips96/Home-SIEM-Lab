@@ -9,8 +9,8 @@
 
 - Configured and conducted vulnerability scans using Nessus to identify and assess security weaknesses in a virtual environment.
 - Disabled the firewall to intentionally expose the VM, demonstrating its visibility and risk factors during a vulnerability scan.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
+- Performing routine scans can elimanate a large amount of risk.
+- Enhanced knowledge of security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
@@ -18,7 +18,7 @@
 
 - Nessus
 - VMware 
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Windows 10
 
 ## Steps
 1. Downloaded VMware workstation pro.
