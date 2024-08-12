@@ -5,7 +5,7 @@
 (THIS LAB IS IN PROGRESS) The objective of this project is to successfully configure and scan for vulnerabilities as well as remediate them via Nessus in home lab environment.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
+
 
 - Configured and conducted vulnerability scans using Nessus to identify and assess security weaknesses in a virtual environment.
 - Disabled the firewall to intentionally expose the VM, demonstrating its visibility and risk factors during a vulnerability scan.
