@@ -86,9 +86,24 @@
 
     <img width="510" alt="image" src="https://github.com/user-attachments/assets/63f1d8f0-5a6c-4042-805d-5d0b51e774bd">
 
+18. Next I restarted the VM.
+
+19. I navigated back to Nessus and went back into the previous scan and configured it further by adding the windows login credentials.
+
+    <img width="1451" alt="image" src="https://github.com/user-attachments/assets/87245dac-98f4-4d81-9f84-69cb2a3daef6">
+
+20. Ran the scan and the screenshot below shows the results.
+
+    
 
 
 
+
+
+
+## Lessons Learned
+
+- There's a large difference between doing a credentialed scan and a non credentialed scan. More risks are exposed with credentialed scans.
 
 
 
