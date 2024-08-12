@@ -130,6 +130,31 @@
     <img width="509" alt="image" src="https://github.com/user-attachments/assets/b4efec65-df72-4413-8fe8-168d8e76e329">
 
 
+
+   Reflecting on the previous scans:
+
+Scan 1: A non-credentialed scan revealed zero critical vulnerabilities.
+
+
+<img width="709" alt="image" src="https://github.com/user-attachments/assets/e28946a9-3316-4a4d-a3f7-b657ba78b286">
+
+
+Scan 2: A credentialed scan resulted in a significant increase in critical vulnerabilities detected.
+
+
+<img width="706" alt="image" src="https://github.com/user-attachments/assets/1ff234dd-1da0-4a82-9c66-89f080207ec3">
+
+
+Scan 3: After installing a deprecated version of Firefox, the number of critical vulnerabilities surged dramatically.
+
+
+<img width="707" alt="image" src="https://github.com/user-attachments/assets/9c1b089f-5e6f-4043-b1e0-e51dd6c849d6">
+
+
+Scan 4: After uninstalling Firefox and running windows updates, this is the final scan.
+
+
+
     
 
 
