@@ -117,7 +117,38 @@
 
 <img width="462" alt="image" src="https://github.com/user-attachments/assets/4b497366-8698-477c-b9c8-afadd20d3d4d">
 
-27. Performed another scan after the depricated Firefox download, below are the results of the next scan.
+27. I Performed another scan after the depricated Firefox download, below are the results of the next scan.
+
+    <img width="1760" alt="image" src="https://github.com/user-attachments/assets/d219af4e-da48-467c-8b4f-c7d051cee39e">
+
+    <img width="1690" alt="image" src="https://github.com/user-attachments/assets/8d31556e-8c46-43f4-8193-ce78f4e6234c">
+
+28. Reflecting on the previous scans:
+Scan 1: A non-credentialed scan revealed zero critical vulnerabilities.
+Scan 2: A credentialed scan resulted in a significant increase in critical vulnerabilities detected.
+Scan 3: After installing a deprecated version of Firefox, the number of critical vulnerabilities surged dramatically.
+
+29. Next my goal is to remediate as many vulnerabilities as possible. To start with I will uninstall Firefox completely and run windows updates. Normally in an enterprise setting updating the application would be the solution.
+
+    <img width="508" alt="image" src="https://github.com/user-attachments/assets/3384051e-98f5-4901-ac46-cc3c391c4a42">
+
+    <img width="509" alt="image" src="https://github.com/user-attachments/assets/b4efec65-df72-4413-8fe8-168d8e76e329">
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+    
+
+    
 
     
 
