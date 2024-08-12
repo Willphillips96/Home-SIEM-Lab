@@ -137,6 +137,7 @@
 ## Lessons Learned
 
 - There's a large difference between doing a credentialed scan and a non credentialed scan. More risks are exposed with credentialed scans.
+- Regularly updating applications and Windows significantly reduces the number of vulnerabilities detected during scans.
 
 
 
