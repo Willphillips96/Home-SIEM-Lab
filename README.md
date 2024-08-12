@@ -36,7 +36,38 @@
    <img width="511" alt="image" src="https://github.com/user-attachments/assets/13466cbd-ccc9-4d30-b1aa-e471968a2f1e">
 
 
-5. 
+5. Once the VM was booted up I ran the ipconfig command to find the IP address. I tried to ping it from my local machine and it was unreachable.
+
+6. Next I disabled the firewall on the VM.
+
+   <img width="508" alt="image" src="https://github.com/user-attachments/assets/aabca124-6669-4aef-97c4-b755a8405cb5">
+
+7. Ran the ping command again and was successfully able to ping the VM.
+
+8. Navigated to Nessus and created a new scan.
+
+   <img width="1619" alt="image" src="https://github.com/user-attachments/assets/5fbb0ff8-4b93-4d02-9043-c169e23f7057">
+
+9. Selected Basic Network Scan
+
+    <img width="1076" alt="image" src="https://github.com/user-attachments/assets/674dfac9-4296-4fdb-917e-e0a77726c118">
+
+10. Configured a scan of the VM.
+
+    <img width="1495" alt="image" src="https://github.com/user-attachments/assets/3ca2666d-11ae-4d17-9f2a-d26621b19828">
+
+11. Once the configuration was complete I launched the scan.
+
+    <img width="1580" alt="image" src="https://github.com/user-attachments/assets/c1e9e1ca-75ce-46b1-a2da-bc8345cd5088">
+
+12.
+
+
+    
+
+
+
+
 
 
    
